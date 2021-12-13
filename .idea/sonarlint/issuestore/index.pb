@@ -1,3 +1,39 @@
 
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
+[
++app/src/main/java/com/mindecs/github/App.kt,8/5/852f6bd15e6b95db8672dd131a9f926c290a6a0f
+A
+gradle.properties,2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4
+@
+local.properties,0/7/0712df971a99ac4d2fccb8e0fb19f377f3374cca
+?
+settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
+>
+app/.gitignore,5/1/51e1c5d383dfaa35e0e7e5873a0a99355a86880f
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+q
+Aapp/src/main/java/com/mindecs/github/presentation/MainActivity.kt,f/8/f8758e4576bb2495d89a374c111172e12f3d0ff5
+v
+Fapp/src/main/java/com/mindecs/github/common/utils/SafeClikcListener.kt,7/6/763016fd2abc9daec1972cbb1b281c7dcd760a65
+Å
+Qapp/src/main/java/com/mindecs/github/common/utils/RecyclerPagingScrollListener.kt,7/7/773825f50d3146f7c236bbd1a825cbf706df4b86
+h
+8app/src/main/java/com/mindecs/github/common/Constants.kt,2/7/275fcbf5c9541d52074b4811a29b61cb98d47cbf
+z
+Japp/src/main/java/com/mindecs/github/domain/repository/GithubRepository.kt,5/d/5d6d2e893fb51fe7fd0143ee4f9191aed1eb4a6b
+ç
+]app/src/main/java/com/mindecs/github/presentation/mainscreen/viewmodel/MainScreenViewModel.kt,3/d/3de74a54f20e97b7c99e445ef14b551dbb67474f
+q
+Aapp/src/main/java/com/mindecs/github/data/remote/GithubService.kt,b/7/b7ad54e01783519ecaf4984a4cb0e58bebb3f793
+Ä
+Papp/src/main/java/com/mindecs/github/domain/usecase/SearchRepositoriesUseCase.kt,c/3/c36e52c327ea6ebd1c564f8361f7ec7e404dae62
+|
+Lapp/src/main/java/com/mindecs/github/data/repository/GithubRepositoryImpl.kt,9/c/9c46002cb964d0c0fd7e1b42a414425c42a682d0
+d
+4app/src/main/java/com/mindecs/github/di/AppModule.kt,e/6/e6adf893bf7c38bb69d2194849b721e5a92cc903
+á
+Wapp/src/main/java/com/mindecs/github/presentation/mainscreen/view/MainscreenFragment.kt,d/5/d537812a17f8171c2121010233e45b1759d85350
+ã
+[app/src/main/java/com/mindecs/github/presentation/detailscreen/view/DetailscreenFragment.kt,0/9/0982f27101b4a7477768da1290148bde6f2c4afd
